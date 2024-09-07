@@ -19,7 +19,7 @@
     "resourcesUrl": "https://r.mobirisesite.com/549985/",
     "path": "@PROJECT_PATH@",
     "name": "Cantabile Schagen",
-    "currentPage": "about.html",
+    "currentPage": "index.html",
     "ai": {
       "imageSearchQuery": "choir"
     },
