@@ -19,7 +19,7 @@
     "resourcesUrl": "https://r.mobirisesite.com/549985/",
     "path": "@PROJECT_PATH@",
     "name": "Cantabile Schagen",
-    "currentPage": "about.html",
+    "currentPage": "media.html",
     "ai": {
       "imageSearchQuery": "choir"
     },
@@ -270,7 +270,7 @@
       ]
     },
     "versionFirst": "5.9.4",
-    "versionPublish": "5.9.18",
+    "versionPublish": "5.9.25",
     "siteFonts": [
       {
         "url": "https://fonts.googleapis.com/css2?family=Brygada+1918:wght@400;700&display=swap",
@@ -2378,7 +2378,7 @@
     "media.html": {
       "settings": {
         "title": "Fotos en Videos Cantabile Schagen",
-        "order": "3",
+        "order": "2",
         "meta_descr": "Foto's en video's"
       },
       "components": [
@@ -3515,7 +3515,7 @@
     "agenda.html": {
       "settings": {
         "title": "Agenda",
-        "order": "2",
+        "order": "3",
         "meta_descr": "Komende evenementen"
       },
       "components": [
