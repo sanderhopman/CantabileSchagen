@@ -2859,26 +2859,6 @@ a {
 .cid-uj6gY0D0C7 .mbr-section-btn {
   text-align: left;
 }
-.cid-uCYX4eeWlC {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-}
-.cid-uCYX4eeWlC .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uCYX4eeWlC .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  background-image: url("../../../assets/images/background1.jpg");
-}
-.cid-uCYX4eeWlC .row {
-  flex-direction: row-reverse;
-}
 .cid-uj68G3JNht {
   padding-top: 1rem;
   padding-bottom: 6rem;
